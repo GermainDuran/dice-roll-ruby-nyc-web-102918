@@ -4,6 +4,6 @@
 
 def roll
   # code goes here
-  r=Random.rand(1...6)
+  r=Random.rand(1...7)
   return r
 end
